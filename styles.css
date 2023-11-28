@@ -2,3 +2,10 @@ body {
   background-color: lightblue;
   font-family: sans-serif;
 }
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  background-color: red;
+}
